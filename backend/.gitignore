@@ -1,7 +1,5 @@
-target/
-.classpath
-.project
-.settings/
-.idea/
-*.iml
-
+.env.local
+node_modules
+dist
+.git
+coverage

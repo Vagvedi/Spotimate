@@ -1,0 +1,29 @@
+{
+  "name": "spotimate",
+  "version": "1.0.0",
+  "description": "A production-ready weather-based music recommendation platform that provides personalized Spotify music recommendations based on real-time weather conditions.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vagvedi/Spotimate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vagvedi/Spotimate/issues"
+  },
+  "homepage": "https://github.com/Vagvedi/Spotimate#readme",
+  "dependencies": {
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3"
+  },
+  "devDependencies": {
+    "vite": "^7.3.1"
+  }
+}
