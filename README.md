@@ -1,4 +1,4 @@
-# Climatic Beats 🌤️🎵
+# Spotimate
 
 A production-ready weather-based music recommendation platform that provides personalized Spotify music recommendations based on real-time weather conditions.
 
