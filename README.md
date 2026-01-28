@@ -12,7 +12,7 @@ A production-ready weather-based music recommendation platform that provides per
 - 🔒 **Protected Routes**: JWT-based route protection
 - 📱 **Responsive Design**: Fully responsive across all devices
 
-## Tech Stack
+## Tech Stack Used
 
 ### Backend
 - **Java 17**
