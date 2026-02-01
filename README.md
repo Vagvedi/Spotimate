@@ -249,7 +249,7 @@ npm run build
 
 This project is open source and available for educational purposes.
 
-## Contributing
+## Contributing 💛
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
